@@ -1,6 +1,3 @@
-// https://youtu.be/2LCo926NFLI?si=FS8vdlASwnnMmIOZ
-// based on fireship video, "RxJS Quick Start with Practical Examples", but made changes to modern rxjs
-
 // helper function to print to the dom
 function print(val) {
   let el = document.createElement("p")
